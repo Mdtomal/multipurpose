@@ -83,9 +83,6 @@ body{
   margin-left:auto;
 }
 
-.dark-selection{
-}
-
 #logo{
   max-height:40px;
   margin-right:10px;
@@ -98,7 +95,7 @@ body{
 }
 
 .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus{
-  background-color:rgb(149,149,141);
+  background-color:blue;
   border-color:transparent;
 }
 
